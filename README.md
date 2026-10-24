@@ -38,11 +38,10 @@ Notes and write-ups documenting my cybersecurity lab practice and learning.
 
 ## 🎯 My Goal
 
-To develop strong practical cybersecurity skills, contribute to meaningful security projects, and grow into a capable penetration tester.
+To develop strong practical cybersecurity skills, and grow into a capable penetration tester.
 
 ## 🤝 Let's Connect
 
 - 💻 [GitHub](https://github.com/Ethical-X)
 - 🌐 [Cybersecurity Portfolio](https://ethical-x.github.io/)
 
-*Learning by doing. Building one project at a time.*
