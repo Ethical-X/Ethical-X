@@ -44,6 +44,6 @@ To develop strong practical cybersecurity skills, and grow into a capable penetr
 
 - 💻 [GitHub](https://github.com/Ethical-X)
 - 🌐 [Cybersecurity Portfolio](https://ethical-x.github.io/)
-- 
+
 (AI was used to make this README)
 
