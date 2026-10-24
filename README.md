@@ -13,7 +13,7 @@ I'm a Cybersecurity and Networking student passionate about ethical hacking, pen
 - 🐧 Comfortable working in Linux environments
 - 🌐 Developing my networking and reconnaissance skills
 - 🧪 Practising through CTF challenges and hands-on labs
-- 📚 Continuously improving my Windows and troubleshooting knowledge
+- 📚 Continuously improving my knowledge
 
 ## 🛠️ Skills & Technologies
 
